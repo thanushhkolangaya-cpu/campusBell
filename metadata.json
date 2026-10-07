@@ -1,0 +1,6 @@
+{
+  "name": "CampusBell - College Timetable & Deadline Reminder",
+  "description": "Smart college timetable reminder with custom per-class alerts, room tracker, and intuitive upcoming deadline widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
